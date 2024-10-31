@@ -10,7 +10,7 @@ return {
 	statusline = "#242424",
 	comment = "#3A3A3A",
 	exception = "#505050",
-	keyword = "#666666",
+	keyword = "#b43453",
 	param = "#8E8E8E",
 	whitespace = "#202020",
 }
